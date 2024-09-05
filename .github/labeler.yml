@@ -1,3 +1,3 @@
-Documentaion:
+Documentation:
 - changed-files:
-  - any-glob-toany-file: Docs/**
+  - any-glob-to-any-file: Docs/*
